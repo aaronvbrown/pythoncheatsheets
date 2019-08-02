@@ -1,0 +1,3 @@
+Python naming conventions
+
+Modules:  lower case, short, underscores discouraged
